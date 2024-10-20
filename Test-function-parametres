@@ -1,1 +1,4 @@
 -le code :
+![Screenshot 2024-10-20 154944](https://github.com/user-attachments/assets/ae4e3e1f-4feb-495c-9dcc-832b031428a8)
+-Pendant l'exécution du programme, la fonction a été appelée avec un nombre croissant de paramètres jusqu'à ce qu'une « erreur d'allocation de mémoire » se produise après avoir atteint 10 460 353 203 paramètres.
+
